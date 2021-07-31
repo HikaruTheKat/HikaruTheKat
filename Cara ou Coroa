@@ -6,3 +6,4 @@ $editIn[6s;{description:\`$randomText[Cara!;Coroa!]}{color:BLACK}]
 $color[BLACK]
 $footer[Moeda jogada por: $username]
 $addTimestamp
+`}
