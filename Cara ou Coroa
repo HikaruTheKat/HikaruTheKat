@@ -7,7 +7,7 @@ module.exports = {
  name: "cara-coroa"
  aliases: ["moeda"]
  code: `$description[**Você Jogou A Moeda Ela cairá daqui a 5 segundos**]
-$editIn[6s;{description:\`$randomText[Cara!;Coroa!]}{color:BLACK}]
+$editIn[6s;{description:\`$randomText[Cara!;Coroa!]\`}{color:BLACK}]
 $color[BLACK]
 $footer[Moeda jogada por: $username]
 $addTimestamp
